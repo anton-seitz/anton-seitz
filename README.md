@@ -1,6 +1,6 @@
 # Hi there, I’m Anton Seitz 👋
 
-I’m a Computer Science student at DHBW Stuttgart who loves **Data Science**, **NLP**, and tinkering with AI. By day I work on ML tools to optimize manufacturing; by night I explore theory, deep dive into LLMs, or train judo.
+I’m a Computer Science student at DHBW Stuttgart who loves **Data Science**, **NLP**, and tinkering with AI.
 
 ## 🚀 What I Do
 
