@@ -12,7 +12,7 @@ I’m a Computer Science student at DHBW Stuttgart who loves **Data Science**, *
 
 - Python · TypeScript · SQL · TensorFlow · Scikit‑Learn
 - Pandas · NumPy · Matplotlib
-- Git · Docker · Jupyter · Vim
+- Git · Docker · Jupyter
 
 ## 🌐 Languages
 
