@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I’m Anton Seitz 👋
 
-<!--
-**anton-seitz/anton-seitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at DHBW Stuttgart who loves **Data Science**, **NLP**, and tinkering with AI. By day I work on ML tools to optimize manufacturing; by night I explore theory, deep dive into LLMs, or train judo.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B.Sc. Computer Science (DHBW Stuttgart)
+- Building ML‑powered pipelines and dashboards at Bosch
+- Exploring LLM fine‑tuning and AI‑driven QA
+
+## 🛠️ Skills
+
+- Python · TypeScript · SQL · TensorFlow · Scikit‑Learn
+- Pandas · NumPy · Matplotlib
+- Git · Docker · Jupyter · Vim
+
+## 🌐 Languages
+
+German · Russian · English
+
+## ⚡ Fun Fact
+
+When I'm not coding, I'm on the judo mat 🥋.
+
+---
+
+> “Mathematics is the language in which God has written the universe.”  
+> – Galileo Galilei
