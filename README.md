@@ -5,8 +5,8 @@ I’m a Computer Science student at DHBW Stuttgart who loves **Data Science**, *
 ## 🚀 What I Do
 
 - B.Sc. Computer Science (DHBW Stuttgart)
-- Building ML‑powered pipelines and dashboards at Bosch
-- Exploring LLM fine‑tuning and AI‑driven QA
+- Building ML‑powered pipelines
+- Exploring NLP and LLMs
 
 ## 🛠️ Skills
 
