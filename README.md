@@ -1,18 +1,7 @@
-# Hi there, I’m Anton Seitz 👋
-
-I’m a Computer Science student at DHBW Stuttgart who loves **Data Science**, **NLP**, and tinkering with AI.
-
 ## 🚀 What I Do
 
-- B.Sc. Computer Science (DHBW Stuttgart)
-- Building ML‑powered pipelines
-- Exploring NLP and LLMs
-
-## 🛠️ Skills
-
-- Python · TypeScript · SQL · TensorFlow · Scikit‑Learn
-- Pandas · NumPy · Matplotlib
-- Git · Docker · Jupyter
+- M. Eng. University of Tsukuba
+- Research focussed on LLMs
 
 ## 🌐 Languages
 
